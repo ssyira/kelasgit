@@ -5,3 +5,5 @@ echo "Intro to git basic";
 echo "Hai Zahirah";
 
 echo "Zahirah buat apa tu?";
+
+echo "haha. Jom balik Zahirah. :((("
